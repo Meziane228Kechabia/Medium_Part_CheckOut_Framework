@@ -47,5 +47,6 @@ public void verifyProductCheckout() {
 public void tearDown() {	
 	driver.quit();
 	}
+//This should work 2
 }
 
